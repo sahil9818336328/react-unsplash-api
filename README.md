@@ -1,4 +1,8 @@
 - unsplash api
 - context setup
-- theme toggle functionality
+- theme toggle
 - form setup
+- search functionality
+- dark/light mode
+- data fetching using axios and react-query
+- env variables
